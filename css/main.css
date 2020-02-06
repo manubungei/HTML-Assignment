@@ -1,0 +1,33 @@
+/* This is a comment */
+body{
+    background-color: rgba(39, 177, 68, 0.787);
+    font-family: 'Times New Roman', Times, serif;
+    /* font-weight: 30px; */
+}
+li{
+    list-style: none; 
+    text-decoration: none;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    padding: 20px;
+    background-color: peru;
+}
+.nav-links li {
+    display : inline-block;
+    margin: 18px;
+
+}
+ .btn{
+     font-family: serif;
+     color: chartreuse;
+     padding: 20px;
+     border-radius: 40%;
+ }
+ .container{
+     padding: 30px;
+ }
+.box-1 h1{}
